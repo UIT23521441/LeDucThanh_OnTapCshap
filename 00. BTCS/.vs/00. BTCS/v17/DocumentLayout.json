@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\00. BTCS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{412A6D6E-9D64-4DAE-88DA-5FFE70FCEB01}|Bai009\\Bai009.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\00. btcs\\bai009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A6D6E-9D64-4DAE-88DA-5FFE70FCEB01}|Bai009\\Bai009.csproj|solutionrelative:bai009\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CEA2C66-DF0B-4DA7-9C90-DB1E33B387C9}|Bai114\\Bai114.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\00. btcs\\bai114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CEA2C66-DF0B-4DA7-9C90-DB1E33B387C9}|Bai114\\Bai114.csproj|solutionrelative:bai114\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\00. BTCS\\Bai009\\Program.cs",
-              "RelativeDocumentMoniker": "Bai009\\Program.cs",
-              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\00. BTCS\\Bai009\\Program.cs",
-              "RelativeToolTip": "Bai009\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\00. BTCS\\Bai114\\Program.cs",
+              "RelativeDocumentMoniker": "Bai114\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\00. BTCS\\Bai114\\Program.cs",
+              "RelativeToolTip": "Bai114\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T12:45:30.071Z",
+              "WhenOpened": "2025-04-05T13:37:13.68Z",
               "EditorCaption": ""
             }
           ]

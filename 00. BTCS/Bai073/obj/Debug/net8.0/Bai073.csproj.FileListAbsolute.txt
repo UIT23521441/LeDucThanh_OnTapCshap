@@ -1,0 +1,15 @@
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\bin\Debug\net8.0\Bai073.exe
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\bin\Debug\net8.0\Bai073.deps.json
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\bin\Debug\net8.0\Bai073.runtimeconfig.json
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\bin\Debug\net8.0\Bai073.dll
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\bin\Debug\net8.0\Bai073.pdb
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.AssemblyInfoInputs.cache
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.AssemblyInfo.cs
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.csproj.CoreCompileInputs.cache
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.sourcelink.json
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.dll
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\refint\Bai073.dll
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.pdb
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\Bai073.genruntimeconfig.cache
+D:\Học với chả Hành\LeDucThanh_OnTapCshap\00. BTCS\Bai073\obj\Debug\net8.0\ref\Bai073.dll
