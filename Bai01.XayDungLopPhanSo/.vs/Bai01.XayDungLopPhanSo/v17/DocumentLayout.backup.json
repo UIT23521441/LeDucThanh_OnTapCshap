@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai01.XayDungLopPhanSo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32B1FBCA-7C88-40C8-9805-F11FED155BB9}|Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\bai01.xaydunglopphanso\\bai01.xaydunglopphanso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B1FBCA-7C88-40C8-9805-F11FED155BB9}|Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo.csproj|solutionrelative:bai01.xaydunglopphanso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32B1FBCA-7C88-40C8-9805-F11FED155BB9}|Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\bai01.xaydunglopphanso\\bai01.xaydunglopphanso\\cphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32B1FBCA-7C88-40C8-9805-F11FED155BB9}|Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo.csproj|solutionrelative:bai01.xaydunglopphanso\\cphanso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CPhanSo.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo\\CPhanSo.cs",
+              "RelativeDocumentMoniker": "Bai01.XayDungLopPhanSo\\CPhanSo.cs",
+              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo\\CPhanSo.cs",
+              "RelativeToolTip": "Bai01.XayDungLopPhanSo\\CPhanSo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:52:00.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo\\Program.cs",
+              "RelativeDocumentMoniker": "Bai01.XayDungLopPhanSo\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai01.XayDungLopPhanSo\\Bai01.XayDungLopPhanSo\\Program.cs*",
+              "RelativeToolTip": "Bai01.XayDungLopPhanSo\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:49:51.895Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
