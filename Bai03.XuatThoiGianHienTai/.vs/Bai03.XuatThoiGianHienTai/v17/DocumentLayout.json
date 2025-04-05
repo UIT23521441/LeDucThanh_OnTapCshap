@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{051F8E30-DDD6-4E8D-BF38-DEBB82203721}|Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\bai03.xuatthoigianhientai\\bai03.xuatthoigianhientai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F8E30-DDD6-4E8D-BF38-DEBB82203721}|Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai.csproj|solutionrelative:bai03.xuatthoigianhientai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F8E30-DDD6-4E8D-BF38-DEBB82203721}|Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\bai03.xuatthoigianhientai\\bai03.xuatthoigianhientai\\cngayhientai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F8E30-DDD6-4E8D-BF38-DEBB82203721}|Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai.csproj|solutionrelative:bai03.xuatthoigianhientai\\cngayhientai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{051F8E30-DDD6-4E8D-BF38-DEBB82203721}|Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai.csproj|d:\\h\u1ECDc v\u1EDBi ch\u1EA3 h\u00E0nh\\leducthanh_ontapcshap\\bai03.xuatthoigianhientai\\bai03.xuatthoigianhientai\\cthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{051F8E30-DDD6-4E8D-BF38-DEBB82203721}|Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai.csproj|solutionrelative:bai03.xuatthoigianhientai\\cthoigian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CThoiGian.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai\\CThoiGian.cs",
+              "RelativeDocumentMoniker": "Bai03.XuatThoiGianHienTai\\CThoiGian.cs",
+              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai\\CThoiGian.cs",
+              "RelativeToolTip": "Bai03.XuatThoiGianHienTai\\CThoiGian.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:48:58.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CNgayHienTai.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai\\CNgayHienTai.cs",
+              "RelativeDocumentMoniker": "Bai03.XuatThoiGianHienTai\\CNgayHienTai.cs",
+              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai\\CNgayHienTai.cs",
+              "RelativeToolTip": "Bai03.XuatThoiGianHienTai\\CNgayHienTai.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:43:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai\\Program.cs",
+              "RelativeDocumentMoniker": "Bai03.XuatThoiGianHienTai\\Program.cs",
+              "ToolTip": "D:\\H\u1ECDc v\u1EDBi ch\u1EA3 H\u00E0nh\\LeDucThanh_OnTapCshap\\Bai03.XuatThoiGianHienTai\\Bai03.XuatThoiGianHienTai\\Program.cs",
+              "RelativeToolTip": "Bai03.XuatThoiGianHienTai\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:43:37.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
